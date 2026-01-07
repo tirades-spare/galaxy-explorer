@@ -1,0 +1,22 @@
+{
+  "__file": "package.json",
+  "name": "galaxy-explorer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@coinbase/wallet-sdk": "latest",
+    "viem": "latest",
+    "axios": "latest",
+    "web3": "latest",
+    "ethers": "latest",
+    "coinbase-agentkit": "github:coinbase/agentkit",
+    "base-web": "github:base/web",
+    "base-node": "github:base/node",
+    "coinbase-wallet-sdk": "github:coinbase/wallet-sdk",
+    "base-docs": "github:base/docs",
+    "coinbase-x402": "github:coinbase/x402",
+    "base-smart-wallet": "github:base/smart-wallet"
+  }
+}
